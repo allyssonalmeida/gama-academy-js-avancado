@@ -1,4 +1,6 @@
-# Atividades de Java Script Avançado do programa Hiring Coders 2021
+# Atividades de Java Script Avançado
+
+## Programa Hiring Coders 2021
 
 ## Gama Academy <3
 
