@@ -15,3 +15,9 @@
 ### Projeto
 
 O projeto desenvolvido foi um simples sistema de busca de livros por categoria :D
+
+Para instalar as dependências:
+`npm i`
+
+Para iniciar em modo de desenvolvimento:
+`npm start`
