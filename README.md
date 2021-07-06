@@ -1,10 +1,10 @@
 # Atividades de Java Script Avançado
 
-## Programa Hiring Coders 2021
+### Programa Hiring Coders 2021
 
-## Gama Academy <3
+### Gama Academy <3
 
-### Exemplos
+## Exemplos
 
 - arrays.js -> Aula sobre Arrays
 - arrowFunction.js -> Aula sobre Arrow Functions
@@ -12,7 +12,7 @@
 - objetos2.js -> Aula sobre Objetos e Desestrutucação
 - operadorTernario.js -> Aula sobre Operador Ternário
 
-### Projeto
+## Projeto
 
 O projeto desenvolvido foi um simples sistema de busca de livros por categoria :D
 
